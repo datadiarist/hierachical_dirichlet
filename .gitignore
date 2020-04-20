@@ -1,0 +1,4 @@
+.ipynb_checkpoints/*
+eduardo/.ipynb_checkpoint*
+.DS_Store
+*.docx
